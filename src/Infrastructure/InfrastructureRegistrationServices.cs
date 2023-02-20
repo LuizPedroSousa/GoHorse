@@ -1,4 +1,4 @@
-using GoHorse.Application.Contracts.Providers;
+using GoHorse.Core.Application.Contracts.Providers;
 using GoHorse.Infrastructure.Providers.Headless;
 using Microsoft.Extensions.DependencyInjection;
 

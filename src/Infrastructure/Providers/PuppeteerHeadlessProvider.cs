@@ -1,10 +1,9 @@
-using System.Runtime.InteropServices.ComTypes;
-using GoHorse.Application.Contracts.Providers;
-using GoHorse.Application.Models.Headless.Selectors;
-using GoHorse.Application.Models.Headless;
+using GoHorse.Core.Application.Contracts.Providers;
+using GoHorse.Core.Application.Models.Headless;
+using GoHorse.Core.Application.Models.Headless.Selectors;
+using Newtonsoft.Json.Linq;
 using PuppeteerSharp;
 using PuppeteerSharp.Input;
-using Newtonsoft.Json.Linq;
 
 namespace GoHorse.Infrastructure.Providers.Headless;
 

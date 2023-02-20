@@ -1,6 +1,6 @@
-using GoHorse.Application.Models.Headless;
-using GoHorse.Application.Models.Headless.Selectors;
-namespace GoHorse.Application.Contracts.Providers;
+using GoHorse.Core.Application.Models.Headless;
+using GoHorse.Core.Application.Models.Headless.Selectors;
+namespace GoHorse.Core.Application.Contracts.Providers;
 
 public interface HeadlessProvider
 {

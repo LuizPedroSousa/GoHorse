@@ -1,4 +1,4 @@
-namespace GoHorse.Domain.Shared;
+namespace GoHorse.Core.Domain.Shared;
 
 public class BaseEntity
 {
