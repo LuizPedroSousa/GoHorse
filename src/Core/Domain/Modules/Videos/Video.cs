@@ -1,6 +1,6 @@
-using GoHorse.Domain.Shared;
+using GoHorse.Core.Domain.Shared;
 
-namespace GoHorse.Domain.Modules.Videos;
+namespace GoHorse.Core.Domain.Modules.Videos;
 
 public enum VideoStatus
 {
