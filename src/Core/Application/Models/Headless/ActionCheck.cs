@@ -1,4 +1,4 @@
-namespace GoHorse.Application.Models.Headless;
+namespace GoHorse.Core.Application.Models.Headless;
 
 public class ActionCheck
 {

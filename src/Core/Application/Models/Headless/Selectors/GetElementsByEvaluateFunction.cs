@@ -1,4 +1,4 @@
-namespace GoHorse.Application.Models.Headless.Selectors;
+namespace GoHorse.Core.Application.Models.Headless.Selectors;
 
 public class GetElementsByEvaluateFunction : Selector
 {
