@@ -6,7 +6,7 @@ using McMaster.Extensions.CommandLineUtils;
 namespace GoHorse.CLI.Commands;
 
 [Command("gohorse")]
-[Subcommand(typeof(Finder))]
+[Subcommand(typeof(FinderCommand))]
 public class GoHorseCommand : BaseCommand
 {
 
