@@ -21,7 +21,6 @@
 		const formData = new FormData(event.target);
 		for (let field of formData) {
 			const [key, value] = field;
-			console.log(key, value);
 		}
 	};
 </script>
